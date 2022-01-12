@@ -42,3 +42,4 @@ Users should be able to:
 - CSS Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Little bit of javascript
