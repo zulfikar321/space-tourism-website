@@ -19,7 +19,7 @@
 
 body {
     font-family: var(--p);
-    overflow: hidden;
+    overflow: auto;
 }
 
 p {
