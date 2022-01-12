@@ -167,7 +167,7 @@ nav {
 @media (min-width: 768px) {
     body {
         font-family: var(--p);
-        overflow: hidden;
+        overflow: scroll;
     }
     
     .line {
