@@ -39,5 +39,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS variable
+- CSS Flexbox
 - CSS Grid
 - Mobile-first workflow
