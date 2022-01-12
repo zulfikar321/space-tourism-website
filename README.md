@@ -26,6 +26,7 @@ Users should be able to:
 
 ### Screenshot
 ![Space-tourism-website1](https://github.com/zulfikar321/space-tourism-website/blob/main/ss1.png?raw=true)
+![Space-tourism-website2](https://github.com/zulfikar321/space-tourism-website/blob/main/ss2.png?raw=true)
 
 
 
