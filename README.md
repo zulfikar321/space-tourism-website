@@ -25,7 +25,7 @@ Users should be able to:
 - View each page and be able to toggle between the tabs to see new information
 
 ### Screenshot
-
+![Space-tourism-website1](https://github.com/zulfikar321/space-tourism-website/blob/main/ss1.png?raw=true)
 
 
 
