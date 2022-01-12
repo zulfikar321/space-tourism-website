@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Space Tourism Website
 
 ## Table of contents
 
