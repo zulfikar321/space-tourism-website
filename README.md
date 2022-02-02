@@ -1,20 +1,8 @@
 # Frontend Mentor - Space Tourism Website
 
-## Table of contents
+### Links
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-## Overview
+- Live Site URL: https://zulfikar321.github.io/space-tourism-website/
 
 ### The challenge
 
@@ -27,13 +15,6 @@ Users should be able to:
 ### Screenshot
 ![Space-tourism-website1](https://github.com/zulfikar321/space-tourism-website/blob/main/ss1.png?raw=true)
 ![Space-tourism-website2](https://github.com/zulfikar321/space-tourism-website/blob/main/ss2.png?raw=true)
-
-
-
-### Links
-
-- Live Site URL: https://zulfikar321.github.io/space-tourism-website/
-
 
 ## My process
 
